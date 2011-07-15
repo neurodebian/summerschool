@@ -1,5 +1,5 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.0.0beta4 created this file. For more info see http://www.lyx.org/
+\lyxformat 412
 \begin_document
 \begin_header
 \textclass article
@@ -53,7 +53,6 @@
 \tracking_changes false
 \output_changes false
 \html_math_output 0
-\html_css_as_file 0
 \html_be_strict false
 \end_header
 
@@ -1194,6 +1193,19 @@ Machine learning (Gael/Yaroslav/Michael)
 \begin_layout Subsection
 \noindent
 Visualization (Gael/Stephan G)
+\end_layout
+
+\begin_layout Standard
+Interactive 3D data visualization and plotting is presented using Mayavi....
+\begin_inset Newline newline
+\end_inset
+
+In the second part, we demonstrate how to create a simple Graphical User
+ Interface for a Python class using Traits and TraitsGUI.
+ Such GUIs are helpful for instance in data entry or parameter control.
+ The created GUIs can be integrated in larger application architectures.
+ We give a brief overview of how this is done in the Connectome Viewer which
+ extends Mayavi using the Envisage plugin architecture.
 \end_layout
 
 \begin_layout Subsection
