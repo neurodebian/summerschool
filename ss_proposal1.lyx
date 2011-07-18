@@ -1148,9 +1148,71 @@ We discuss the packages that extend Python for numerical computing, beyond
 Version control and literate programming (Matthew/Fernando)
 \end_layout
 
+\begin_layout Standard
+We will give a very short overview of the central role of version control
+ in disciplined programming.
+ We'll introduce the basic concepts of distributed version control and start
+ exercises putting files into version control, changing them and committing
+ them.
+ We'll demonstrate merging between repositories as the standard mechanism
+ of data and code sharing.
+ Next we introduce the idea of literate programming and show examples of
+ self-documenting scripts from nitime and other libraries using simple 
+\family typewriter
+sphinx
+\family default
+ markup, and more complex lab-notebook style documentation using 
+\family typewriter
+pweave
+\family default
+.
+\end_layout
+
 \begin_layout Subsection
 \noindent
 Neuroimaging data formats (Matthew/Michael)
+\end_layout
+
+\begin_layout Standard
+We start by introducing the common data formats, with an emphasis on NIfTI
+ and DICOM.
+ We introduce the 
+\family typewriter
+nibabel
+\family default
+ and 
+\family typewriter
+pydicom
+\family default
+ toolboxes.
+ Our first example will show creation, saving and loading of a NIfTI file
+ using 
+\family typewriter
+nibabel
+\family default
+.
+ We discuss the structure of NIfTI files and show editing NIfTI metadata
+ using 
+\family typewriter
+nibabel
+\family default
+.
+ We discuss the problems of reading the standard DICOM format and have an
+ exercise reading DICOMs using 
+\family typewriter
+pydicom
+\family default
+.
+ We show conversion of DICOM files to NIfTI files, and practice tuning and
+ fixing this conversion using 
+\family typewriter
+nibabel
+\family default
+ and 
+\family typewriter
+pydicom
+\family default
+.
 \end_layout
 
 \begin_layout Subsection
@@ -1267,6 +1329,26 @@ We will present some graph theoretical tools for analyzing functional networks
 \begin_layout Subsection
 \noindent
 Diffusion imaging (Eleftherios)
+\end_layout
+
+\begin_layout Standard
+We start with a very brief overview of the steps involved in processing
+ diffusion MRI data.
+ We will present tools available in 
+\family typewriter
+dipy
+\family default
+ for diffusion signal reconstruction and modeling, tractography propagation,
+ visualization and iteraction.
+ We will also show methods of registering tractographies between brains
+ and segmentation algorithms.
+ If time permits, we will sketch how to create your own tractographic atlas
+ and automatically identify bundles of interest.
+ Exercises will use 
+\family typewriter
+dipy
+\family default
+.
 \end_layout
 
 \begin_layout Section
