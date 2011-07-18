@@ -1230,7 +1230,20 @@ We will present some basic time-series concepts (the Fourier transform,
 
 \begin_layout Subsection
 \noindent
-Graph theory (Caterina/Emi)
+Graph theory
+\end_layout
+
+\begin_layout Standard
+We will present some graph theoretical tools for analyzing functional networks
+ derived from neuroimaging data.
+ We will demonstrate the application of these tools in quantifying the network
+ properties of the brain (clustering, path length, small-worldness) as well
+ as visualization of this complex network data.
+ Exercises will be based upon the 
+\begin_inset Formula $\mathtt{networkx}$
+\end_inset
+
+ python library.
 \end_layout
 
 \begin_layout Subsection
@@ -1287,9 +1300,14 @@ Rationale and goals: This course will teach neuroimaging researchers to
 Target audience: Neuroimaging researchers at the graduate student or post-doc
  level with a strong interest in learning best practices in the use and
  development of reproducible research tools.
- Some programming experience in Matlab, Python, or C/C++ is expected.
  We seek to increase the opportunities given to under-represented groups
  and encourage members of these groups to apply.
+\end_layout
+
+\begin_layout Paragraph*
+\noindent
+Requirements: Programming experience in Matlab, Python, or C/C++ is expected.
+ 
 \end_layout
 
 \begin_layout Paragraph
