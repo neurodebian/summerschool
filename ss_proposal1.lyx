@@ -1197,7 +1197,11 @@ The first part of the session will present building and executing workflows
 \begin_inset Formula $\mathtt{nipype}$
 \end_inset
 
- and pyxnat software libraries.
+ and 
+\begin_inset Formula $\mathtt{pyxnat}$
+\end_inset
+
+ software libraries.
 \end_layout
 
 \begin_layout Subsection
