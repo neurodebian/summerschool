@@ -181,7 +181,7 @@ Target groups 3 and 4 in the summary of the 1st INCF Workshop on Needs for
 ) interested in learning best practices in the use and development of reproducib
 le research tools.
  The target audience are researchers with some programming experience in
- Matlab, Python, or C/C++.
+ Python, C/C++, or Matlab.
  The course will admit 30 participants, to maintain a good instructor/student
  ratio.
  In particular, we will seek to make the course available to members of
@@ -1324,7 +1324,7 @@ Target audience: Neuroimaging researchers at the graduate student or post-doc
 
 \begin_layout Paragraph*
 \noindent
-Requirements: Programming experience in Matlab, Python, or C/C++ is expected.
+Requirements: Programming experience in Python, C/C++, or Matlab is expected.
  
 \end_layout
 
