@@ -677,7 +677,7 @@ Analysis pipelines and data bases
 \begin_inset Text
 
 \begin_layout Plain Layout
-nipype
+nipype/pyxnat
 \end_layout
 
 \end_inset
@@ -1184,6 +1184,20 @@ Statistics (Jonathan)
 \begin_layout Subsection
 \noindent
 Pipelines and data-bases (Satra/Chris) 
+\end_layout
+
+\begin_layout Standard
+The first part of the session will present building and executing workflows
+ for preprocessing of functional data.
+ The second part of the session will present the benefits of storing data
+ in neuroimaging databases (e.g.
+ XNAT) and will demonstrate retrieving, analyzing and storing results in
+ such a database.
+ The session will focus on using 
+\begin_inset Formula $\mathtt{nipype}$
+\end_inset
+
+ and pyxnat software libraries.
 \end_layout
 
 \begin_layout Subsection
