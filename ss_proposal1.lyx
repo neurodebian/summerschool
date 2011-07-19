@@ -1145,7 +1145,7 @@ We discuss the packages that extend Python for numerical computing, beyond
 
 \begin_layout Subsection
 \noindent
-Version control and literate programming (Matthew/Fernando)
+Version control and literate programming 
 \end_layout
 
 \begin_layout Standard
@@ -1170,7 +1170,7 @@ pweave
 
 \begin_layout Subsection
 \noindent
-Neuroimaging data formats (Matthew/Michael)
+Neuroimaging data formats
 \end_layout
 
 \begin_layout Standard
@@ -1245,7 +1245,7 @@ Statistics (Jonathan)
 
 \begin_layout Subsection
 \noindent
-Pipelines and data-bases (Satra/Chris) 
+Pipelines and data-bases
 \end_layout
 
 \begin_layout Standard
@@ -1328,7 +1328,7 @@ We will present some graph theoretical tools for analyzing functional networks
 
 \begin_layout Subsection
 \noindent
-Diffusion imaging (Eleftherios)
+Diffusion imaging
 \end_layout
 
 \begin_layout Standard
