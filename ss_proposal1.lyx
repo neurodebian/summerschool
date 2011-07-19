@@ -2,8 +2,13 @@
 \lyxformat 413
 \begin_document
 \begin_header
-\textclass article
+\textclass amsart
 \use_default_options true
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+\end_modules
 \maintain_unincluded_children false
 \language english
 \language_package default
@@ -12,7 +17,7 @@
 \font_roman default
 \font_sans default
 \font_typewriter default
-\font_default_family default
+\font_default_family sfdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
@@ -25,9 +30,10 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
+\spacing single
 \use_hyperref false
-\papersize default
-\use_geometry false
+\papersize letterpaper
+\use_geometry true
 \use_amsmath 1
 \use_esint 1
 \use_mhchem 1
@@ -42,10 +48,17 @@
 \shortcut idx
 \color #008000
 \end_index
+\leftmargin 24mm
+\topmargin 24mm
+\rightmargin 24mm
+\bottommargin 24mm
+\headheight 24mm
+\headsep 24mm
+\footskip 24mm
 \secnumdepth 3
 \tocdepth 3
-\paragraph_separation indent
-\paragraph_indentation default
+\paragraph_separation skip
+\defskip smallskip
 \quotes_language english
 \papercolumns 1
 \papersides 1
