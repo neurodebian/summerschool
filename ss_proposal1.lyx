@@ -29,6 +29,7 @@ figs-within-sections
 \output_sync 0
 \bibtex_command default
 \index_command default
+\float_placement H
 \paperfontsize default
 \spacing single
 \use_hyperref false
@@ -1135,9 +1136,52 @@ breakfast and travel from Berkeley
 Content
 \end_layout
 
+\begin_layout Standard
+Each day of the workshop will contain three two-hour sessions of instruction.
+ The sessions will be interactive, allowing students to learn by doing.
+ Typically, the instruction sessions will be structured as 20 minute lecture
+ segments, interleaved with 10-20 minute problem solving sessions.
+ During these sessions, students will work on solving a narrowly defined
+ programming problem, using the library or tool that is being presented
+ during that segment.
+ For example, an incomplete code segment will be provided and students will
+ be asked to write the remaining code, to complete the exercise.
+ This form of instruction requires a high level of student engagement.
+ The high instructor-to-student ratio will allow instructors to help individual
+ students in solving these problem sets during these segments.
+\end_layout
+
+\begin_layout Standard
+In the following, we will briefly describe the contents of each of the sessions
+ in the above time-table.
+ In addition to these formal sessions, we will hold several informal 
+\begin_inset Quotes eld
+\end_inset
+
+break-out
+\begin_inset Quotes erd
+\end_inset
+
+ sessions, in which instructors and students can present a topic of interest
+ or a software tool in addition to those presented in the more formal instructio
+n sessions.
+ Topics for these sessions include: software deployment strategies, software
+ testing, and stimulus generation and presentation for perceptual exepriments.
+ 
+\end_layout
+
 \begin_layout Subsection
 \noindent
-Introduction to neuroinformatics and reproducible research (Jarrod)
+Introduction to neuroinformatics and reproducible research 
+\end_layout
+
+\begin_layout Standard
+This session will serve as an introduction to the course.
+ We will present the the field of neuroinformatics and survey the state
+ of the field.
+ We will emphasize the principles of reproducible research, as an integral
+ part of the goals of neuroinformatics.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -1363,6 +1407,38 @@ dipy
 .
 \end_layout
 
+\begin_layout Subsection
+Student projects: 
+\end_layout
+
+\begin_layout Standard
+On the final day of the workshop, students will form small groups (2-3 in
+ each group) and work on group projects.
+ These projects can take on of the following formats: 
+\end_layout
+
+\begin_layout Itemize
+A contribution to one of the libraries presented during the workshop.
+ This can take the form of an enhancement or addition to the libraray, a
+ fix to one of the bugs in the bug-tracker of the project, a tutorial on
+ the usage of one of the features of the library or an example usage for
+ the documetation of the project.
+ 
+\end_layout
+
+\begin_layout Itemize
+A solution to some data analysis problem of interest to the group.
+ This can take the form of a program integrating and combining usage of
+ different tools presented during the workshop.
+ 
+\end_layout
+
+\begin_layout Standard
+The final instruction session will be devoted to short (12 minute) presentations
+ of the projects.
+ 
+\end_layout
+
 \begin_layout Section
 \noindent
 Draft of call
@@ -1412,13 +1488,16 @@ Rationale and goals: This course will teach neuroimaging researchers to
 Target audience: Neuroimaging researchers at the graduate student or post-doc
  level with a strong interest in learning best practices in the use and
  development of reproducible research tools.
- We seek to increase the opportunities given to under-represented groups
- and encourage members of these groups to apply.
+ We seek to increase the opportunities given to groups under-represented
+ in neuroinformatics (e.g.
+ women and scientists from countries outside the developed world) and encourage
+ members of these groups to apply.
 \end_layout
 
 \begin_layout Paragraph*
 \noindent
-Requirements: Programming experience in Matlab, Python, or C/C++ is expected.
+Requirements: Programming experience in Matlab, Python, or C/C++ and a strong
+ interest in learning software development tools is expected.
  
 \end_layout
 
@@ -1432,9 +1511,10 @@ Structure: The first day of the course will focus on basic tools for scientific
  visualization, as well as presenting several neuroimaging-specific Python
  libraries including nipy, dipy, nibabel, nitime, pymvpa, and nipype (see
  http://nipy.org).
+ Each session will be interleaved with hands-on problem solving sessions.
  The last day of the course will have the students work in small groups
  (2-3 people) on selected team projects to analyze real data using the tools
- we've presented.
+ presented.
 \end_layout
 
 \begin_layout Paragraph*
