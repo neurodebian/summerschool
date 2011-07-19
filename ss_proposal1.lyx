@@ -138,7 +138,7 @@ on and documentation, which facilitate these practices.
 \align block
 Participants will acquire knowledge and skills in neuroimaging data analysis.
  In particular, participants will acquire domain-specific knowledge in a
- variety of topics in modern neuorimaging, including diffusion imaging,
+ variety of topics in modern neuroimaging, including diffusion imaging,
  time-series analysis, machine learning, graph-theory, etc.
 \end_layout
 
@@ -1297,15 +1297,14 @@ Time-series analysis
 \begin_layout Standard
 We will present some basic time-series concepts (the Fourier transform,
  auto-regressive models, etc.) and algorithms (filtering, MAR estimation,
- coherency estimation).
+ power spectral density estimation and coherency estimation).
  We will demonstrate the use of these algorithms in univariate and multivariate
- analysis of neuroimaging data.
+ analysis of fMRI, EEG and MEG data.
  Exercises will be based on the 
 \begin_inset Formula $\mathtt{nitime}$
 \end_inset
 
  software analysis library.
- 
 \end_layout
 
 \begin_layout Subsection
@@ -1429,9 +1428,9 @@ Structure: The first day of the course will focus on basic tools for scientific
 \noindent
 Confirmed tutors: Fernando Perez, Stefan van der Walt, Jarrod Millman, Matthew
  Brett, Caterina Gratton (UC Berkeley), Ariel Rokem and Jonathan Taylor
- (Stanford), Michael Hanke and Yaroslav Halchenko (Dartmouth), Gael Varoquax
- (INSERM), Alex Gramfort (MGH/Harvard), Eleftherios Garyfallidis (Cambridge),
- Satrajit Ghosh (MIT), Chris Filo Gorgolewski (University of Edinburgh),
+ (Stanford), Michael Hanke and Yaroslav Halchenko (Dartmouth), Gael Varoquaux
+ (INSERM), Alexandre Gramfort (MGH/Harvard), Eleftherios Garyfallidis (Cambridge
+), Satrajit Ghosh (MIT), Chris Filo Gorgolewski (University of Edinburgh),
  Stephan Gerhard (ETH Zurich).
 \end_layout
 
@@ -1530,7 +1529,7 @@ Of the core compoetencies defined in the summary of the 1st INCF Workshop
 \begin_layout Enumerate
 \noindent
 \align block
-“Ability to programme in high-level languages”.
+“Ability to program in high-level languages”.
  Although we expect many of the participants to have at least some knowledge
  of programming, one of the the major goals of the course is to increase
  participants’ confidence in their programming skills to a degree where
