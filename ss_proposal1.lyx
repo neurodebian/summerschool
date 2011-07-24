@@ -1328,13 +1328,30 @@ The first part of the session will present building and executing workflows
 Machine learning (Gael/Yaroslav/Michael)
 \end_layout
 
+\begin_layout Standard
+This session introduces attendees to decoding and machine-learning related
+ techniques.
+ First we present inverse inference: using the pyMVPA toolkit we analyse
+ the dataset of Haxby et al 2009 with various classifiers and introduces
+ concepts such as cross-validation and feature selection.
+ Second we explore more general machine learning concepts such as unsupervised
+ learning and penalization.
+ We demonstrate them using the scikit-learn toolkit.
+\end_layout
+
 \begin_layout Subsection
 \noindent
-Visualization
+Visualization 
 \end_layout
 
 \begin_layout Standard
-Interactive 3D data visualization and plotting is presented using Mayavi....
+The first part of this session exposes how to visualize neuroimaging data.
+ We start by introducy the nipy functions to perform 2D and 3D visualization
+ of MRI volumes.
+ Then we show how, underlying nipy, the 3D visualizations are created with
+ Mayavi.
+ Finally, we give an overview of the Mayavi pipeline and use it to new visualiza
+tions of various datasets.
 \begin_inset Newline newline
 \end_inset
 
