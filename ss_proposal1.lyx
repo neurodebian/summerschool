@@ -1526,6 +1526,9 @@ Target audience: Neuroimaging researchers at the graduate student or post-doc
 \noindent
 Requirements: Programming experience in Python, Matlab or C/C++ and a strong
  interest in learning software development tools is expected.
+ In addition, prior experience or theoretical background in neuroimaging
+ (fMRI, MRI, EEG, or other techniques) is assumed.
+ 
 \end_layout
 
 \begin_layout Paragraph
