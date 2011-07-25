@@ -1340,13 +1340,14 @@ Machine learning
 \end_layout
 
 \begin_layout Standard
-This session introduces attendees to decoding and machine-learning related
- techniques.
- First we present inverse inference: using the pyMVPA toolkit we analyse
- the dataset of Haxby et al 2009 with various classifiers and introduces
- concepts such as cross-validation and feature selection.
- Second we explore more general machine learning concepts such as unsupervised
- learning and penalization.
+This session introduces attendees to machine-learning techniques used in
+ neuroimaging.
+ First we present inverse inference: using the PyMVPA toolkit we analyse
+ the dataset of Haxby et al 2001 using various analyses schemes: from searchligh
+t analysis to ROI/full-brain classification while introducing the concepts
+ such as cross-validation and feature selection.
+ Second we explore more of general machine learning concepts such as unsupervise
+d learning and penalization.
  We demonstrate them using the scikit-learn toolkit.
 \end_layout
 
