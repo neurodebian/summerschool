@@ -195,7 +195,7 @@ Target groups 3 and 4 in the summary of the 1st INCF Workshop on Needs for
 ) interested in learning best practices in the use and development of reproducib
 le research tools.
  The target audience are researchers with some programming experience in
- Matlab, Python, or C/C++.
+ Python, C/C++, or Matlab.
  The course will admit 30 participants, to maintain a good instructor/student
  ratio.
  In particular, we will seek to make the course available to members of
@@ -1513,9 +1513,9 @@ Target audience: Neuroimaging researchers at the graduate student or post-doc
 
 \begin_layout Paragraph*
 \noindent
-Requirements: Programming experience in Matlab, Python, or C/C++ and a strong
+Requirements: Programming experience in Python, Matlab or C/C++ and a strong
  interest in learning software development tools is expected.
- 
+
 \end_layout
 
 \begin_layout Paragraph
@@ -1538,10 +1538,10 @@ Structure: The first day of the course will focus on basic tools for scientific
 \noindent
 Confirmed tutors: Fernando Perez, Stefan van der Walt, Jarrod Millman, Matthew
  Brett, Caterina Gratton (UC Berkeley), Ariel Rokem and Jonathan Taylor
- (Stanford), Michael Hanke and Yaroslav Halchenko (Dartmouth), Gael Varoquaux
- (INSERM), Alexandre Gramfort (MGH/Harvard), Eleftherios Garyfallidis (Cambridge
-), Satrajit Ghosh (MIT), Chris Filo Gorgolewski (University of Edinburgh),
- Stephan Gerhard (ETH Zurich).
+(Stanford), Michael Hanke (University of Magdeburg), Yaroslav Halchenko
+ (Dartmouth College), Gael Varoquax (INSERM), Alex Gramfort (MGH/Harvard),
+ Eleftherios Garyfallidis (Cambridge), Satrajit Ghosh (MIT), Chris Filo
+ Gorgolewski (University of Edinburgh), Stephan Gerhard (ETH Zurich).
 \end_layout
 
 \begin_layout Paragraph*
@@ -1603,7 +1603,7 @@ As mentioned in the INCF mission statement, neuroinformatics poses a specific
 \align block
 The list of instructors proposed embodies the spirit of international cooperatio
 n, which underlies the mission of the INCF, with instructors from the US,
- from France, from Switzerland and from the UK.
+ from France, from Switzerland, from Germany and from the UK.
  We intend for the student population to embody this spirit, at least in
  part, by inviting international participants to apply for travel grants,
  which will cover the expenses of 5 such students.
@@ -1650,7 +1650,7 @@ Of the core competencies defined in the summary of the 1st INCF Workshop
 \begin_layout Enumerate
 \noindent
 \align block
-“Knoweldge of imaging techniques and image analysis”: This topic is also
+“Knowledge of imaging techniques and image analysis”: This topic is also
  central to the course an will be covered extensively, both at the theoretical
  level and at the practical level.
 \end_layout
