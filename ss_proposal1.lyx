@@ -1297,7 +1297,18 @@ package, which include image filtering, geometrical warping, morphology
 
 \begin_layout Subsection
 \noindent
-Statistics (Jonathan)
+Statistics 
+\end_layout
+
+\begin_layout Standard
+This session will introduce the general linear model for modelling of functional
+ and anatomical data.
+ After fitting the model, we discuss various approaches to multiple comparisons:
+ nonparametric methods based on permutation tests; False Discovery Rate
+ control and Random Field Theory.
+ Exercises will illustrate the theoretical ideas using scikits.statsmodels
+ and nipy.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -1325,7 +1336,7 @@ The first part of the session will present building and executing workflows
 
 \begin_layout Subsection
 \noindent
-Machine learning (Gael/Yaroslav/Michael)
+Machine learning
 \end_layout
 
 \begin_layout Standard
@@ -1515,7 +1526,6 @@ Target audience: Neuroimaging researchers at the graduate student or post-doc
 \noindent
 Requirements: Programming experience in Python, Matlab or C/C++ and a strong
  interest in learning software development tools is expected.
-
 \end_layout
 
 \begin_layout Paragraph
@@ -1538,7 +1548,7 @@ Structure: The first day of the course will focus on basic tools for scientific
 \noindent
 Confirmed tutors: Fernando Perez, Stefan van der Walt, Jarrod Millman, Matthew
  Brett, Caterina Gratton (UC Berkeley), Ariel Rokem and Jonathan Taylor
-(Stanford), Michael Hanke (University of Magdeburg), Yaroslav Halchenko
+ (Stanford), Michael Hanke (University of Magdeburg), Yaroslav Halchenko
  (Dartmouth College), Gael Varoquax (INSERM), Alex Gramfort (MGH/Harvard),
  Eleftherios Garyfallidis (Cambridge), Satrajit Ghosh (MIT), Chris Filo
  Gorgolewski (University of Edinburgh), Stephan Gerhard (ETH Zurich).
