@@ -1342,13 +1342,15 @@ Machine learning
 \begin_layout Standard
 This session introduces attendees to machine-learning techniques used in
  neuroimaging.
- First we present inverse inference: using the PyMVPA toolkit we analyse
- the dataset of Haxby et al 2001 using various analyses schemes: from searchligh
-t analysis to ROI/full-brain classification while introducing the concepts
- such as cross-validation and feature selection.
+ First we present inverse inference: using the PyMVPA toolkit we perform
+ several prototypical analyses on the classical dataset of Haxby et al.
+ (2001), covering the concepts of searchlight analyses, ROI/full-brain classific
+ation, as well as cross-validation and feature selection.
  Second we explore more of general machine learning concepts such as unsupervise
 d learning and penalization.
  We demonstrate them using the scikit-learn toolkit.
+ Lastly, we demonstrate how both Python libaries can be used in conjunction
+ to create flexible analysis pipelines.
 \end_layout
 
 \begin_layout Subsection
